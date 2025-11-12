@@ -401,8 +401,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **Emre Karayazgan**
 - VoIP/Network Engineer
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/emre-karayazgan/)]
-- GitHub: [[Your GitHub Profile](https://github.com/emrekarayazgan)]
+- LinkedIn: [(https://www.linkedin.com/in/emre-karayazgan/)](https://www.linkedin.com/in/emre-karayazgan/)
+- GitHub: [[(https://github.com/emrekarayazgan)](https://github.com/emrekarayazgan)]
 
 ---
 
