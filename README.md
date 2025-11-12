@@ -4,7 +4,7 @@ VoIP Engineer | Open-Source Developer | Remote Troubleshooting Specialist
 
 ## 🚀 What I'm Building
 
-- **[VoIPScope](https://github.com/YOUR-USERNAME/voipscope)** - Open-source VoIP diagnostic tool
+- **[VoIPScope](https://github.com/emrekarayazgan/voipscope)** - Open-source VoIP diagnostic tool
   - Analyzes PCAP files in seconds
   - Detects one-way audio, NAT issues, call quality problems
   - Used by network engineers worldwide
@@ -18,7 +18,7 @@ VoIP Engineer | Open-Source Developer | Remote Troubleshooting Specialist
 ## 📫 How to Reach Me
 
 - LinkedIn: [linkedin.com/in/emre-karayazgan](https://www.linkedin.com/in/emre-karayazgan/)
-- Email: your-email@example.com
+- Email: [emre.karayazgan@gmail.com](emre.karayazgan@gmail.com)
 
 ## 🛠️ Tech Stack
 
